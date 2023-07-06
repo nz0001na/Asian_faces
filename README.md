@@ -1,4 +1,4 @@
-# Chinese Celebrities Face Image Database
+# Asian Celebrities Face Image Database
 
 # Introduction 
 * This repository is about the resource of a new Chinese Celibrites face images database.
