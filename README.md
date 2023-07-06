@@ -14,7 +14,11 @@
       2. DCleaning_tool:  a tool for cleaning images with target image
 * a full name list of celebrities, including China, Korea, Japan.
 
-# Some samples
+# Some samples of Chinese Celebrities
 ![arch](fig/sample.png)
 
+# Korean Celebrities:
+![arch](fig/korea.png)
 
+# Japanese Celebiries
+![arch](fig/japan.png)
