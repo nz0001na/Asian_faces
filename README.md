@@ -6,6 +6,7 @@
 * It presents different sizes, various pose angles, a range of different light conditions, large age variations, etc.
 * We also extended to collect a number famous people of Korea (552 subjects) and Japan (470 subjects) without cleaning.
 
+[[report]](https://github.com/nz0001na/Asian_faces/blob/master/slides.pdf)
 
 # Content
 * Some face image samples of collected dataset
